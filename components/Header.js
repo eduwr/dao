@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div className={"grid grid-cols-6 p-4 fixed z-10 top-0 bg-black w-full"}>
+    <div className={"grid grid-cols-6 p-4 fixed z-10 top-0 w-full"}>
       <h1 className={"grid-span-2 p-4 text-lg font-bold"}>
         Open Source Society
       </h1>
